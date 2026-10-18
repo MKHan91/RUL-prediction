@@ -1,7 +1,4 @@
 <div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F0E6CE,100:D8C09A&height=180&section=header&text=RUL%20Prediction&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Vibration%20Trend%20Analysis%20%26%20Failure%20Time%20Estimation&descAlignY=60&descSize=15&descColor=FFFFFF" width="100%" alt="RUL Prediction" />
-
   <p>
     <strong>진동 추세를 분석하고, 고장 임계값에 도달하는 시점을 추정합니다.</strong><br />
     RMS 시계열에 회귀 모델을 적용해 잔여수명 추정에 필요한 정보를 확인하는 Python 프로젝트입니다.
